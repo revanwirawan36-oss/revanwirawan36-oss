@@ -28,10 +28,8 @@
   
   <img src="https://img.shields.io/badge/MARKDOWN-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
-  ---
-
-  
-### 
+ ---
+</div> <br />
 
 <h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 
