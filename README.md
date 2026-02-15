@@ -21,7 +21,7 @@
 
   <br/>
 
-  ## 🔧 Tools & Technologies
+  ## 🔧 Tools and Technologies
   <img src="https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   
   <br/>
